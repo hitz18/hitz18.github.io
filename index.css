@@ -142,6 +142,16 @@ label{
 	background-color: #F06292;
 }
 
+a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	display: block;
+	padding: 10px;
+}
+
+
+
 .filler1,.filler2,.filler3,.filler4
 {
 	display: block;
